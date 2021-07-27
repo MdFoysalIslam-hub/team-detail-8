@@ -1,0 +1,9 @@
+.home-cart {
+   background-color: rgb(31, 94, 94);
+}
+.cart-style {
+   color: blue;
+   display: flex;
+   grid-template-columns: repeat(3, fr1);
+   
+}
